@@ -6,7 +6,7 @@ except:
 import os
 import os.path
 import sys
-import commands
+import subprocess
 from glob import glob
 from distutils.core import setup, Extension
 
